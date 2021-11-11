@@ -1,0 +1,41 @@
+a {
+    outline: none;
+    }
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+    }
+
+a:visited {
+    text-decoration: none;
+    color: #000000;
+    }
+
+a:hover {
+    text-decoration: underline;
+    }
+
+h1, p {
+    background: transparent;
+    color: #000000;
+    font-family: verdana, helvetica, sans-serif;
+    margin-left: 3em;
+    margin-right: 3em;
+    }
+
+h1 {
+    font-size: 13px;
+    margin-bottom: 0px;
+    }
+
+p {
+    font-size: 11px; 
+    line-height: 14px; 
+    }
+
+#tabmiddle1, #tabmiddle2, #tabmiddle3, #tabmiddle4, #tabmiddle5 {
+    font-family: verdana, helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    }
